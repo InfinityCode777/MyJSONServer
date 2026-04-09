@@ -1,39 +1,39 @@
 {
-	"data": [
-		{
-			"name": "Lake Winnipesaukee",
-			"location": [43.6032569,-71.5054704],
-			"url": "https://fastly.picsum.photos/id/1011/200/200.jpg?hmac=ISwJXaLKDOtBGE_n3myoHUev_P_OH3zpWqLx0yHp0pY"
-		},
-		{
-			"name": "Mountain Monadnock",
-			"location": [42.8610798,-72.1083267],
-			"url": "https://fastly.picsum.photos/id/685/200/200.jpg?hmac=1IjDFMSIa0T_JSvcq79_e2NWPwRJg61Ufbfu4eM4HvA"
-		},
-		{
-			"name": "Hatch Memorial Shell",
-			"location": [42.3878467,-71.1360017],
-			"url": "https://fastly.picsum.photos/id/117/200/200.jpg?hmac=hAXY0lMbkjkxYIKxW0UjtazVquGY1NCu3ruHLJGc4gs"
-		},
-		{
-			"name": "Hill",
-			"location": [],
-			"url": "https://fastly.picsum.photos/id/727/200/200.jpg?hmac=3t3XFTDKvF4DdvtTj-t8IMm5uwdlyzdECQmn87m3qk0"
-		},
-		{
-			"name": "Tree Stump",
-			"location": [],
-			"url": "https://fastly.picsum.photos/id/139/200/200.jpg?hmac=FNSPvHsHcRzKQtNxKKauJgIXpoaAufCwYvr-1w5T3R4"
-		},
-		{
-			"name": "Roosevelt National Forest",
-			"location": [40.6833135,-105.5608512],
-			"url": "https://fastly.picsum.photos/id/932/200/200.jpg?hmac=Qjhen49LkgtGGE52_mEJghx6A2xQoCVv1eTsAVG14-c"
-		},
-		{
-			"name": "Train Track",
-			"location": [],
-			"url": "https://fastly.picsum.photos/id/932/200/200.jpg?hmac=Qjhen49LkgtGGE52_mEJghx6A2xQoCVv1eTsAVG14-c"
-		}
-	]
+  "data": [
+    {
+      "name": "Lake Winnipesaukee",
+      "location": [43.6032569, -71.5054704],
+      "url": "https://fastly.picsum.photos/id/1011/200/200.jpg?hmac=ISwJXaLKDOtBGE_n3myoHUev_P_OH3zpWqLx0yHp0pY"
+    },
+    {
+      "name": "Mountain Monadnock",
+      "location": [42.8610798, -72.1083267],
+      "url": "https://fastly.picsum.photos/id/685/200/200.jpg?hmac=1IjDFMSIa0T_JSvcq79_e2NWPwRJg61Ufbfu4eM4HvA"
+    },
+    {
+      "name": "Hatch Memorial Shell",
+      "location": [42.3878467, -71.1360017],
+      "url": "https://fastly.picsum.photos/id/117/200/200.jpg?hmac=hAXY0lMbkjkxYIKxW0UjtazVquGY1NCu3ruHLJGc4gs"
+    },
+    {
+      "name": "Hill",
+      "location": [],
+      "url": "https://fastly.picsum.photos/id/727/200/200.jpg?hmac=3t3XFTDKvF4DdvtTj-t8IMm5uwdlyzdECQmn87m3qk0"
+    },
+    {
+      "name": "Tree Stump",
+      "location": [],
+      "url": "https://fastly.picsum.photos/id/139/200/200.jpg?hmac=FNSPvHsHcRzKQtNxKKauJgIXpoaAufCwYvr-1w5T3R4"
+    },
+    {
+      "name": "Roosevelt National Forest",
+      "location": [40.6833135, -105.5608512],
+      "url": "https://fastly.picsum.photos/id/932/200/200.jpg?hmac=Qjhen49LkgtGGE52_mEJghx6A2xQoCVv1eTsAVG14-c"
+    },
+    {
+      "name": "Train Track",
+      "location": [],
+      "url": "https://fastly.picsum.photos/id/932/200/200.jpg?hmac=Qjhen49LkgtGGE52_mEJghx6A2xQoCVv1eTsAVG14-c"
+    }
+  ]
 }
